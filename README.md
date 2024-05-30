@@ -1,7 +1,7 @@
 # Flight Roster System
 
 ## Project Synopsis
-An online tool called the Flight Roster System is intended to be used in the creation and administration of flight rosters for fictitious airlines. In order to ensure effective flight preparation and administration, it makes it easier to organize flight information, such as passenger lists and assignments for the cockpit and cabin personnel.
+Intended to be used in the creation and administration of flight rosters for fictitious airlines. In order to ensure effective flight preparation and administration, the tool aims to make it easier to organize flight information; such as passenger lists and assignments for the cockpit and cabin personnel.
 
 ### Features 
 - **Flight Selection:** Users have the option to filter flights based on a variety of parameters or choose flights based on their unique number.
